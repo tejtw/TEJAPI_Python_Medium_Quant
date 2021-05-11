@@ -9,6 +9,8 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 Week9：透過Python對技術分析指標進行簡介、程式碼撰寫及應用<br>
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-二-技術分析簡介與回測-14ae9bbb9c76<br>
 
-
+Week10：透過Python使用機器學習模組來對市場進行預測<br>
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-三-預測市場-bde88352a011<br>
 ## 備註
-資料庫使用：TEJ E SHOP 斜槓方案-證券交易資料表
+資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
+TEJ E SHOP 斜槓方案-報酬率資訊表(TWN/EWPRCD2)
