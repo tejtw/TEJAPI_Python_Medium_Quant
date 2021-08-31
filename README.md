@@ -19,7 +19,7 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-五-台電產業動態指數之應用-營收篇-8253926f9e3b<br>
 
 量化分析6：透過Python進行事件研究法<br>
-Medium文章連結：<br待補<br>
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-六-現金增資宣告效果-以事件研究法為例-e14d6e1854d2<br>
 
 ## 備註
 資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
