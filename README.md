@@ -15,10 +15,11 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 量化分析4：透過Python使用籌碼分析來撰寫股價回測<br>
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-四-跟隨大戶的交易策略-f0fb8fae9401<br>
 
-
 量化分析5：驗證產業動態指數的預測性(營收篇)<br>
-Medium文章連結：<br>https://medium.com/tej-api-%E9%87%91%E8%9E%8D%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90-%E5%9B%9B-%E8%B7%9F%E9%9A%A8%E5%A4%A7%E6%88%B6%E7%9A%84%E4%BA%A4%E6%98%93%E7%AD%96%E7%95%A5-f0fb8fae9401<br>
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-五-台電產業動態指數之應用-營收篇-8253926f9e3b<br>
 
+量化分析6：透過Python進行事件研究法<br>
+Medium文章連結：<br待補<br>
 
 ## 備註
 資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
