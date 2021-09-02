@@ -21,6 +21,9 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 量化分析6：透過Python進行事件研究法<br>
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-六-現金增資宣告效果-以事件研究法為例-e14d6e1854d2<br>
 
+量化分析7：效率前緣<br>
+Medium文章連結：<br>尚未發布<br>
+
 ## 備註
 資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
 TEJ E SHOP 斜槓方案-報酬率資訊表(TWN/EWPRCD2)
