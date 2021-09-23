@@ -22,7 +22,10 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-六-現金增資宣告效果-以事件研究法為例-e14d6e1854d2<br>
 
 量化分析7：效率前緣<br>
-Medium文章連結：<br>尚未發布<br>
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-七-效率前緣曲線-cfbe972274<br>
+
+量化分析8：MACD回測實戰<br>
+Medium文章連結：<br>帶補上<br>
 
 ## 備註
 資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
