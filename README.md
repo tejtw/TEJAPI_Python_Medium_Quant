@@ -25,6 +25,9 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-七-效率前緣曲線-cfbe972274<br>
 
 量化分析8：MACD回測實戰<br>
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-八-macd指標回測實戰-8794ca221029<br>
+
+量化分析9：ESG量化因子選股<br>
 Medium文章連結：<br>帶補上<br>
 
 ## 備註
