@@ -28,6 +28,9 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-八-macd指標回測實戰-8794ca221029<br>
 
 量化分析9：ESG量化因子選股<br>
+Medium文章連結：<br>Https://medium.com/tej-api-金融資料分析/量化分析-九-esg量化因子選股-4dbaec338e64<br>
+
+量化分析10：KD指標回測<br>
 Medium文章連結：<br>帶補上<br>
 
 ## 備註
