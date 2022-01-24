@@ -31,7 +31,19 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 Medium文章連結：<br>Https://medium.com/tej-api-金融資料分析/量化分析-九-esg量化因子選股-4dbaec338e64<br>
 
 量化分析10：KD指標回測<br>
-Medium文章連結：<br>帶補上<br>
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-十-kd指標回測實戰-5e743c10468b
+
+量化分析11：雙因子權重設置<br>
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-十一-雙因子權重設置-bf05d78c7b4a
+
+量化分析12：衡量公司盈餘管理程度<br>
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-十二-衡量公司盈餘管理程度-6b41704baa72
+
+量化分析13：RSI指標回測實戰<br>
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-十三-rsi指標回測實戰-1d915873f1f7
+
+量化分析14：三大法人都買哪些產業?<br>
+Medium文章連結：<br>待補上
 
 ## 備註
 資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
