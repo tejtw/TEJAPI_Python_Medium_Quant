@@ -43,7 +43,7 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-十三-rsi指標回測實戰-1d915873f1f7
 
 量化分析14：三大法人都買哪些產業?<br>
-Medium文章連結：<br>待補上
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-十四-三大法人都買哪些產業-45a7c4152bfe
 
 ## 備註
 資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
