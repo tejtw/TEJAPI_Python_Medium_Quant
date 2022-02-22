@@ -47,6 +47,7 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 
 量化分析15：量能回測實戰<br>
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-十四-量能回測實戰-e174fb5ebafb
+備註：不用擔心網址出現，量化分析-十四，連結還量化分析十五的文章。
 
 ## 備註
 資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
