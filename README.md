@@ -49,6 +49,9 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-十四-量能回測實戰-e174fb5ebafb
 <br>備註：不用擔心網址出現，量化分析-十四，連結是量化分析十五的文章沒錯。
 
+量化分析16投資組合風險值<br>
+Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-十六-投資組合風險值-f4b62645258b
+
 ## 備註
 資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
 TEJ E SHOP 斜槓方案-報酬率資訊表(TWN/EWPRCD2)
