@@ -52,6 +52,10 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 量化分析16投資組合風險值<br>
 Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分析-十六-投資組合風險值-f4b62645258b
 
+
+量化分析17投資組合風險值<br>
+Medium文章連結：<br>https://medium.com/tej-api-%E9%87%91%E8%9E%8D%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90-%E5%8D%81%E4%B8%83-%E9%98%B2%E7%A6%A6%E5%9E%8B%E8%82%A1%E7%A5%A8%E5%A1%AB%E6%AC%8A%E6%81%AF%E6%8E%A2%E8%A8%8E-443af3db8a45
+
 ## 備註
 資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
 TEJ E SHOP 斜槓方案-報酬率資訊表(TWN/EWPRCD2)
