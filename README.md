@@ -56,8 +56,8 @@ Medium文章連結：<br>https://medium.com/tej-api-金融資料分析/量化分
 量化分析17防禦型股票填權息探討<br>
 Medium文章連結：<br>https://medium.com/tej-api--金融資料分析/量化分析-十七-防禦型股票填權息探討-443af3db8a45
 
-量化分析18 殖利率曲線倒掛
-Medium文章連結: <br>https://medium.com/tej-api-%E9%87%91%E8%9E%8D%E8%B3%87%E6%96%99%E5%88%86%E6%9E%90/%E9%87%8F%E5%8C%96%E5%88%86%E6%9E%90-%E5%8D%81%E5%85%AB-%E6%AE%96%E5%88%A9%E7%8E%87%E6%9B%B2%E7%B7%9A%E5%80%92%E6%8E%9B-2dfd996ca6a0
+量化分析18 殖利率曲線倒掛<br>
+Medium文章連結：<br>https://medium.com/tej-api--金融資料分析/量化分析-十八-殖利率曲線倒掛-2dfd996ca6a0
 ## 備註
 資料庫使用：<br>TEJ E SHOP 斜槓方案-證券交易資料表(TWN/EWPRCD)<br>
 TEJ E SHOP 斜槓方案-報酬率資訊表(TWN/EWPRCD2)
